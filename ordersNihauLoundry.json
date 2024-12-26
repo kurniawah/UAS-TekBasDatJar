@@ -1,0 +1,1 @@
+{"_id":{"$oid":"676cac2a5c3a79e26f2db175"},"order_id":"O001","customer_id":"C001","service_id":"S001","weight":"8","price":"80000","order_date":"26-12-2024","estimate_date":"01-01-2025","status":"in progress"}
